@@ -1,0 +1,12 @@
+.idea
+*.xml
+/com.santhosh/.gradle
+/.idea/libraries
+/com.santhosh/build
+/.idea/libraries
+*.xml
+*.xml
+/.idea
+.idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_api_5_9_1.xml
+.idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_engine_5_9_1.xml
+*.xml
